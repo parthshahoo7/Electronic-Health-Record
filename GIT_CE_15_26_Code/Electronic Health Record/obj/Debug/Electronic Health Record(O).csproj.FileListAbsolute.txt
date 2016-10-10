@@ -1,0 +1,19 @@
+C:\Users\Parth Shah\PARTH\Desktop\sample project\Our Medilack\Electronic Health Record\bin\Electronic Health Record.dll
+C:\Users\Parth Shah\PARTH\Desktop\sample project\Our Medilack\Electronic Health Record\bin\Electronic Health Record.pdb
+C:\Users\Parth Shah\PARTH\Desktop\sample project\Our Medilack\Electronic Health Record\obj\Debug\Electronic Health Record.dll
+C:\Users\Parth Shah\PARTH\Desktop\sample project\Our Medilack\Electronic Health Record\obj\Debug\Electronic Health Record.pdb
+C:\Users\Parth Shah\parth\Desktop\sample project\Our Medilack\Electronic Health Record\bin\Electronic Health Record.dll.config
+C:\Users\Parth Shah\Parth\Desktop\sample project\Our Medilack\Electronic Health Record\bin\DayPilot.dll
+C:\Users\Parth Shah\PARTH\Desktop\sample project\Our Medilack\Electronic Health Record\obj\Debug\Electronic Health Record(O).csprojResolveAssemblyReference.cache
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record.dll
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record.pdb
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.dll.config
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.dll
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.pdb
+C:\Users\Parth Shah\PARTH\Desktop\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record(O).csprojResolveAssemblyReference.cache
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.dll.config
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.dll
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\bin\Electronic Health Record.pdb
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record(O).csprojResolveAssemblyReference.cache
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record.dll
+E:\study\ASP.NET\parth\SEm Ehr\submit\GIT_CE_15_26_Code\Electronic Health Record\obj\Debug\Electronic Health Record.pdb

@@ -1,0 +1,4 @@
+﻿.modalBackground{filter:alpha(opacity=60);opacity:0.6;background-color:rgba(0,0,0,0.2);}
+.modalpopup{background-color: #645959; width:300px;border:3px solid rgba(0, 0, 0, 0.00);}
+.modalpopup .login:hover{background-color: #02ADC6;}
+

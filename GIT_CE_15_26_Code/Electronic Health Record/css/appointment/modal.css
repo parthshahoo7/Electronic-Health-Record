@@ -1,0 +1,29 @@
+﻿body, td, p {
+    font-size: 10pt;
+    font-family: Tahoma, Arial, Sans-serif;
+}
+.header {
+    font-size: 14pt;
+    font-weight: bold;
+}
+.dialog 
+{
+}
+
+.dialog form
+{
+	margin: 0px;
+}
+
+.message_info 
+{
+	/*background-color: #dc143c; */
+	background-color: Green;
+	color: White;
+}
+
+.message_warn 
+{
+	color: White;
+	background-color: #dc143c;
+}

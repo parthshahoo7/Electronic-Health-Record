@@ -1,0 +1,143 @@
+/*color switcher*/
+.color-switcher {
+	width: 234px;
+	position:fixed;
+	left: -235px;
+	top: 18%;
+	background: #fff;
+	z-index: 9999;
+	padding:0;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+	border-bottom: 1px solid #F1F1F1;
+    border-right: 1px solid #F1F1F1;
+}
+.color-switcher h5 {
+	    font-size: 15px;
+    margin-top: 0;
+    padding: 15px 13px;
+    background-color: #525866;
+    color: #fff;
+}
+.color-switcher p {
+	padding-bottom:7px;
+	font-size:16px;
+	color:#595959;
+	margin-bottom:0;
+}
+.color-switcher ul {
+	list-style:none;
+	padding:0;
+}
+.color-switcher ul li {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.color-switcher ul li a {
+	display: block;
+	    width: 33px;
+    height: 33px;
+	outline: none;
+}
+
+.color-switcher ul li .red { background: #f15b5a !important;}
+.color-switcher ul li a.light-blue { background: #2b96cc !important;}
+.color-switcher ul li a.green { background: #9cba36;}
+.color-switcher ul li a.light-green { background: #1abc9c;}
+.color-switcher ul li a.dark-blue { background: #3a539b;}
+.color-switcher ul li a.orange { background: #ff9c00;}
+.color-switcher ul li a.yellow { background: #f6c815;}
+.color-switcher ul li a.pink{ background: #e9266f;}
+.color-switcher ul li a.purple { background: #9b59b6;}
+.color-switcher ul li a.brown { background: #825339;}
+
+
+.picker_close {
+	    width: 46px;
+    height: 53px;
+    position: absolute;
+    right: -47px;
+    top: -3px;
+    text-align: center;
+	background: url(../images/icon_settings.jpg) no-repeat center;
+}
+.picker_close i {
+	font-size:22px;
+	margin-top:9px;
+}
+.position {
+	left: 0;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+.theme-colours, .layouts, .backgrounds, .choose-header, .choose-footer, .choose-theme {
+	display: table;
+	padding: 10px 20px 15px;
+	text-align: left;
+	border-top:1px solid #e1e1e1;
+	width:100%;
+}
+.layouts a, .choose-header a, .choose-footer a, .choose-theme a {
+	    display: inline-block;
+    text-align: center;
+    width: 47%;
+    margin: 0 4px 0 0;
+    color: #5d5d5d;
+    font-size: 16px;
+    border: 1px solid #e7e7e7;
+    padding: 6px 0;
+}
+.layouts a:hover, .choose-header a:hover, .choose-footer a:hover, .choose-theme a:hover {
+	    background-color: #EAEAEA;
+	padding:6px 0;
+}
+.backgrounds {
+	padding-bottom:0;
+	margin-bottom: -10px;
+}
+.backgrounds a {
+	width:24px;
+	height:24px;
+	float:left;
+	margin:0 6px 6px 0;
+	border:1px solid #ccc;
+}
+.backgrounds a#bg-one {
+	background:url(../images/bg1.html);
+}
+.backgrounds a#bg-two {
+	background:url(../images/bg2.html);
+}
+.backgrounds a#bg-three {
+	background:url(../images/bg3.html);
+}
+.backgrounds a#bg-four {
+	background:url(../images/bg4.html);
+}
+.backgrounds a#bg-five {
+	background:url(../images/bg5.html);
+}
+.backgrounds a#bg-six {
+	background:url(../images/bg6.html);
+}
+.backgrounds a#bg-seven {
+	background:url(../images/bg7.html);
+}
+.backgrounds a#bg-eight {
+	background:url(../images/bg8.html);
+}
+.backgrounds a#bg-nine {
+	background:url(../images/bg9.html);
+}
+.backgrounds a#bg-ten {
+	background:url(../images/bg10.html);
+}
+
+
